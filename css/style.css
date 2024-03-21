@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+.but{
+    color: white;
+}
+.applynow{
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: #2C54A6;
+}
+.bg-blue{
+    background-color: #2C54A6 !important;
+    color: white;
+    text-align: center;
+   
+}
+ .section1{
+    padding: 50px;
+    /* height: 600px;
+    width: 100%; */
+} 
+.col-md-5 .img{
+    height: 500px;
+    width: 500px;
+}
+.heading1{
+    font-size: 100px !important ; 
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    padding-bottom: 50px;
+}
+.leftsec{
+    padding-top: 150px;
+}
+.section2{
+    background-color: #4667AA !important;
+   padding-top: 100px;
+   padding-bottom: 100px;
+}
+.para{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+i{
+    font-size: 50px;
+}
+p i{
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+}
+.section3{
+    background-color: #082960;
+    color: white;
+    padding-top: 100px;
+}
+hr{
+    color: white;
+}
+footer p{
+    text-align: center;
+    color: white;
+
+}
+.navbar{
+    padding-left: 60px;
+    padding-right: 60px;
+    height: 100px;
+}
+
+#heading1{
+    font-size: 50px !important ; 
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600px;
+    padding-bottom: 50px;
+
+}
+#text1{
+    padding-top: 10px ;
+
+}
+.col-md-5 .pic{
+    height: 500px;
+    width: 500px;
+}
+.text2{
+    color: white;
+    padding-left: 100px;
+}
+.col-md-7 .h2{
+    font-size: 50px !important ; 
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600px;
+    padding-bottom: 50px;
+
+
+}
+.icon{
+    color: #2C54A6;
+    padding-bottom: 70px;
+}
+.color{
+    color: #2C54A6;
+    font-size: 20px;
+    padding-bottom: 20px;
+
+}
+.col-md-4.para{
+    padding: 50px;
+}
+.newlogo{
+    padding-bottom: 20px;
+}
+.last{
+    background-color: #2C54A6;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+
+}
+.join{
+  
+}
